@@ -15,7 +15,7 @@ HOW TO RUN
    clear functions;
    close all;
    rehash;
-   main_project7_gui
+   Salt_Pepper_Noise_Removal_Project_GUI
 
 6. The Noise Removal Studio window will open.
 
