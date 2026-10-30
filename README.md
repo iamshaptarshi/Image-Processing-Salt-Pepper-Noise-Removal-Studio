@@ -17,7 +17,7 @@ Keep all the following files together in the same project folder.
 
 | File | Purpose |
 |---|---|
-| `main_project7_gui.m` | Interactive Noise Removal Studio GUI |
+| `Salt_Pepper_Noise_Removal_Project_GUI` | Interactive Noise Removal Studio GUI |
 | `main_project7.m` | Runs the full batch experiment |
 | `add_salt_pepper_fast.m` | Fast salt-and-pepper noise generation for the GUI |
 | `add_salt_pepper_custom.m` | Controlled noise generation for batch experiments |
@@ -44,7 +44,7 @@ Do not move individual `.m` files out of the project folder. MATLAB needs to be 
    clear functions;
    close all;
    rehash;
-   main_project7_gui
+   Salt_Pepper_Noise_Removal_Project_GUI
    ```
 
 5. The **DIP Lab | Noise Removal Studio** window will open.
